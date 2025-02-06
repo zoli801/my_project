@@ -1,1 +1,1 @@
-# my_project
+# animal segmentation project
